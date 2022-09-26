@@ -23,7 +23,7 @@ Team Member 1
 
 Team Member 2
 
-    Syed Irfan K
+    Seeni Habebu Mohamed A
 
       Assignment 01 :   https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Member%202/Assignment%201/110119106025%20SEENI%20HABEBU%20MOHAMED
 
@@ -31,8 +31,7 @@ Team Member 2
 
 Team Member 3
 
-    Seeni Habebu Mohamed A
-
+    Syed Irfan K
       Assignment 01 :  https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Member%203/Assignment%201/110119106030%20SYED%20IRFAN 
 
       Assignment 02 :  https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Member%203/ASSIGNMENT%202
