@@ -39,8 +39,8 @@ Assignment 02 :  https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/m
 
 PROJECT DESIGN AND DEVELOPING
 
-    Ideation Phase (Empathize, Defining problem statement,Ideation) works completed and posted in the folder at 
+   Ideation Phase (Empathize, Defining problem statement,Ideation) works completed and posted in the folder at 
           https://github.com/IBM-EPBL/IBM-Project-47838-1660802816/tree/main/Project%20Design%20and%20planning/Ideation%20phase
 
-    PROPOSED SOLUTION submitted in the folder at 
+   PROPOSED SOLUTION submitted in the folder at 
           https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/Project%20Design%20and%20planning/Project%20Design%20Phase%201
