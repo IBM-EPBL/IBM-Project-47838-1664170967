@@ -9,9 +9,9 @@ Team Lead :
 
    Mohamed Abdullah I
 
-      Assignment 01 :   https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Leader/Assignment%201/110119106008%20MOHAMED%20ABDULLAH
+   Assignment 01 :   https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Leader/Assignment%201/110119106008%20MOHAMED%20ABDULLAH
 
-      Assignment 02 :   https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Leader/ASSIGNMENT%202
+   Assignment 02 :   https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Leader/ASSIGNMENT%202
 
 Team Member 1
 
