@@ -49,14 +49,14 @@ PROJECT DESIGN AND DEVELOPING
 
    Ideation Phase :
       
-      Literature Survey : LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx
-      Empathy Map       : Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf
-      Problem Statement : ProblemStatement.pdf
-      Brainstorming Map : Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf
+   Literature Survey : LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx
+   Empathy Map       : Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf
+   Problem Statement : ProblemStatement.pdf
+   Brainstorming Map : Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf
       
    Project Design and Planning :
       Project Design Phase 1 :
-         Proposed Solution     : Proposed Solution.pdf
-         Solution Fit          : 
-         Solution Architecture :
+        Proposed Solution     : Proposed Solution.pdf
+        Solution Fit          : 
+        Solution Architecture :
           
