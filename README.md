@@ -48,7 +48,15 @@ Team Member 3
 PROJECT DESIGN AND DEVELOPING
 
    Ideation Phase :
-          https://github.com/IBM-EPBL/IBM-Project-47838-1660802816/tree/main/Project%20Design%20and%20planning/Ideation%20phase
-
-   PROPOSED SOLUTION : 
-          https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/Project%20Design%20and%20planning/Project%20Design%20Phase%201
+      
+      Literature Survey : LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx
+      Empathy Map       : Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf
+      Problem Statement : ProblemStatement.pdf
+      Brainstorming Map : Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf
+      
+   Project Design and Planning :
+      Project Design Phase 1 :
+         Proposed Solution     : Proposed Solution.pdf
+         Solution Fit          : 
+         Solution Architecture :
+          
