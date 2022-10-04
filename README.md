@@ -48,15 +48,20 @@ Team Member 3
 PROJECT DESIGN AND DEVELOPING
 
    Ideation Phase :
-      Literature Survey : [LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708533/LITERATURE.SURVEY.ON.SMART.SIGNS.FOR.BETTER.ROAD.SAFETY.docx)
-      Empathy Map       : [Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708528/Empathy.map.canvas.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf)
-      Problem Statement : [ProblemStatement.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708534/ProblemStatement.pdf)
-      Brainstorming Map : [Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708501/Brainstorming.map.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf)
+     		Literature Survey : [LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708533/LITERATURE.SURVEY.ON.SMART.SIGNS.FOR.BETTER.ROAD.SAFETY.docx)
+			 
+     		Empathy Map       : [Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708528/Empathy.map.canvas.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf)
+			 
+     		Problem Statement : [ProblemStatement.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708534/ProblemStatement.pdf)
+			 
+     		Brainstorming Map : [Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708501/Brainstorming.map.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf)
       
    Project Design and Planning :
       Project Design Phase 1 :
         Proposed Solution     : [Proposed Solution.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708536/Proposed.Solution.pdf)
+		  
         Solution Fit          : [Problem_solution_fit .pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9709114/Problem_solution_fit.pdf)
+		  
         Solution Architecture : [SolutionArchitecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9709151/SolutionArchitecture.pdf)
 
           
