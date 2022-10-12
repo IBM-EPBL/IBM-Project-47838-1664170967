@@ -66,9 +66,12 @@ PROJECT DESIGN AND DEVELOPING
 
       Project Design Phase 2 : 
    
-   Customer Journey Map  :
+   Customer Journey Map  : [CustomerJourneyMap.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766650/CustomerJourneyMap.pdf)
+
    
-   Solution Requirements :
+   Solution Requirements : [Solution Requirements.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766655/Solution.Requirements.pdf)
+
    
-   Data Flow		 :
+   Data Flow		 : [dataFlow.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766656/dataFlow.pdf)
+
 
