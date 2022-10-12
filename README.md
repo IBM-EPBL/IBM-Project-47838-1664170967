@@ -64,5 +64,11 @@ PROJECT DESIGN AND DEVELOPING
 		  
    Solution Architecture : [SolutionArchitecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9709151/SolutionArchitecture.pdf)
 
-          
+      Project Design Phase 2 : 
+   
+   Customer Journey Map  :
+   
+   Solution Requirements :
+   
+   Data Flow		 :
 
