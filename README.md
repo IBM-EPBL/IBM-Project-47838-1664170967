@@ -81,4 +81,6 @@ Team Member 3
    
    Data Flow		 : [dataFlow.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766656/dataFlow.pdf)
 
+Technology Architecture  : [Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9832610/Technology.Architecture.pdf)
+
 
