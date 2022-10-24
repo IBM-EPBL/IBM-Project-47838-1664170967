@@ -83,4 +83,7 @@ Team Member 3
 
 Technology Architecture  : [Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9832610/Technology.Architecture.pdf)
 
+Project Planning : [ProjectPlanning.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9851822/ProjectPlanning.pdf)
+
+
 
