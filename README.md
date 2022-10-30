@@ -55,36 +55,42 @@
   ### Assignment 04 : [Assignment4](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/ASSIGNMENTS/Team%20Member%203/Assignment%204)
 
 
-   Ideation Phase :
-     		Literature Survey : [LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708533/LITERATURE.SURVEY.ON.SMART.SIGNS.FOR.BETTER.ROAD.SAFETY.docx) ;
+ ## Ideation Phase :
+   
+   ### Literature Survey : [LITERATURE SURVEY ON SMART SIGNS FOR BETTER ROAD SAFETY.docx](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Ideation%20phase/LITERATURE%20SURVEY%20ON%20SMART%20SIGNS%20FOR%20BETTER%20ROAD%20SAFETY.docx) ;
 			 
-   Empathy Map       : [Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708528/Empathy.map.canvas.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf) ;
+   ### Empathy Map       : [Empathy map canvas for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Ideation%20phase/Empathy%20map%20canvas%20for%20Signs%20with%20Smart%20Connectivity%20for%20Better%20Road%20Safety.pdf) ;
 			 
-   Problem Statement : [ProblemStatement.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708534/ProblemStatement.pdf)
+   ### Problem Statement : [ProblemStatement.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Ideation%20phase/ProblemStatement.pdf)
 			 
-   Brainstorming Map : [Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708501/Brainstorming.map.for.Signs.with.Smart.Connectivity.for.Better.Road.Safety.pdf)
+   ### Brainstorming Map : [Brainstorming map for Signs with Smart Connectivity for Better Road Safety.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Ideation%20phase/Brainstorming%20map%20for%20Signs%20with%20Smart%20Connectivity%20for%20Better%20Road%20Safety.pdf)
       
-   Project Design and Planning :
-      Project Design Phase 1 :
-   Proposed Solution     : [Proposed Solution.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9708536/Proposed.Solution.pdf)
+ ## Project Design and Planning :
+ 
+   ## Project Design Phase 1 :
+   
+   ### Proposed Solution     : [Proposed Solution.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20Phase%201/Proposed%20Solution.pdf))
 		  
-   Solution Fit          : [Problem_solution_fit .pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9709114/Problem_solution_fit.pdf)
+   ### Solution Fit          : [Problem_solution_fit .pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20Phase%201/Problem_solution_fit%20.pdf)
 		  
-   Solution Architecture : [SolutionArchitecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9709151/SolutionArchitecture.pdf)
+   ### Solution Architecture : [SolutionArchitecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20Phase%201/SolutionArchitecture.pdf)
 
-      Project Design Phase 2 : 
+   ## Project Design Phase 2 : 
    
-   Customer Journey Map  : [CustomerJourneyMap.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766650/CustomerJourneyMap.pdf)
-
-   
-   Solution Requirements : [Solution Requirements.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766655/Solution.Requirements.pdf)
+   ### Customer Journey Map  : [CustomerJourneyMap.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/CustomerJourneyMap.pdf)
 
    
-   Data Flow		 : [dataFlow.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9766656/dataFlow.pdf)
+   ### Solution Requirements : [Solution Requirements.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/Solution%20Requirements.pdf)
 
-Technology Architecture  : [Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9832610/Technology.Architecture.pdf)
+   
+   ### Data Flow		 : [dataFlow.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/dataFlow.pdf)
 
-Project Planning : [ProjectPlanning.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/9851822/ProjectPlanning.pdf)
+   ### Technology Architecture  : [Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/Technology%20Architecture.pdf)
+
+## Project Planning : [ProjectPlanning.pdf](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Planning/ProjectPlanning.pdf)
+
+## Project Development Phase
+## Sprint1: [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/Project%20Development%20Phase/Sprint%201)
 
 
 
