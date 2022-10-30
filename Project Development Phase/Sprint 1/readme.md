@@ -90,7 +90,7 @@ import brain
 # USER INPUT SECTION STARTS
 
 myLocation = "Chennai,IN"
-APIKEY = "bf4a8d480ee05c00952bf65b78ae826b"
+APIKEY = "9cd610e5fd400c74212074c7ace0d62c"
 
 localityInfo = {
     "schools" : {
@@ -121,6 +121,6 @@ MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 2 AS PER OUR PLANNED SPRINT SCHEDU
 ```
 
 ### Images :
-![OutputImage](./outputImage.png)
+![OutputImage](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%201/Sprint1%20Output.png)
 
 ### Thank You
