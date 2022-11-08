@@ -8,8 +8,8 @@
 1. Push data from local code to cloud
 
 ### Code Flow :
-codeFlow!(![image](https://user-images.githubusercontent.com/85010264/200647914-0e35a1a7-7ac4-44a4-aab1-4fff02380595.png)
-)
+codeFlow!(https://user-images.githubusercontent.com/85010264/200647914-0e35a1a7-7ac4-44a4-aab1-4fff02380595.png)
+
 
 ### Program Code :
 
