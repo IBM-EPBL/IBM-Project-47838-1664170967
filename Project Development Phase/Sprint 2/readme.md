@@ -159,18 +159,14 @@ MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 3 AS PER OUR PLANNED SPRINT SCHEDU
 
 ### Output :
 
-**[LINK TO NODE RED DASHBOARD](https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/ui/#!/0?socketid=GTCCu99nK-_WLy8iAAAL)**
+**[LINK TO NODE RED DASHBOARD](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/ui/#!/0?socketid=rtX6LwUbMPsjICXpAAAB)**
 
 ```python
 # Code Output
-2022-11-06 21:38:33,452   wiotp.sdk.device.client.DeviceClient  INFO    Connected successfully: d:epmoec:testDevice:device0
-2022-11-06 21:38:33,452   wiotp.sdk.device.client.DeviceClient  INFO    Disconnected from the IBM Watson IoT Platform
-2022-11-06 21:38:33,452   wiotp.sdk.device.client.DeviceClient  INFO    Closed connection to the IBM Watson IoT Platform
-{'speed': 40, 'doNotHonk': False}
-2022-11-06 21:38:35,631   wiotp.sdk.device.client.DeviceClient  INFO    Connected successfully: d:epmoec:testDevice:device0
-2022-11-06 21:38:35,631   wiotp.sdk.device.client.DeviceClient  INFO    Disconnected from the IBM Watson IoT Platform
-2022-11-06 21:38:35,631   wiotp.sdk.device.client.DeviceClient  INFO    Closed connection to the IBM Watson IoT Platform
-{'speed': 40, 'doNotHonk': False}
+22022-11-08 22:57:43,506   wiotp.sdk.device.client.DeviceClient  INFO    Connected successfully: d:f59trs:testdevice:device1
+2022-11-08 22:57:43,574   wiotp.sdk.device.client.DeviceClient  INFO    Disconnected from the IBM Watson IoT Platform
+2022-11-08 22:57:43,580   wiotp.sdk.device.client.DeviceClient  INFO    Closed connection to the IBM Watson IoT Platform
+{'speed': 20.0, 'doNotHonk': False}
 .
 .
 .
@@ -178,12 +174,12 @@ MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 3 AS PER OUR PLANNED SPRINT SCHEDU
 ```
 
 ### Images :
-![OutputImage1]()![sprint 2 output1](https://user-images.githubusercontent.com/85010264/200644313-b5c71c30-f65e-407f-bb6a-e468e4f25002.png)
+[OutputImage1]![sprint 2 output1](https://user-images.githubusercontent.com/85010264/200644313-b5c71c30-f65e-407f-bb6a-e468e4f25002.png)
 
 
 ---
 
-![OutputImage2](https://user-images.githubusercontent.com/85010264/200644071-ca2f45ca-3ec8-4cce-9ab6-5e89c7430ac3.png)
+[OutputImage2](https://user-images.githubusercontent.com/85010264/200644071-ca2f45ca-3ec8-4cce-9ab6-5e89c7430ac3.png)
 
 
 ### Thank You
