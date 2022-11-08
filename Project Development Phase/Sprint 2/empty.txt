@@ -1,1 +1,0 @@
-The purpose of this file is to maintain the file structure in GitHub since git doesn't commit empty files/folders.
