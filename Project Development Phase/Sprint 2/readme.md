@@ -8,7 +8,7 @@
 1. Push data from local code to cloud
 
 ### Code Flow :
-![codeFlow](Project Design and planning/Project Design  Phase 2/dataFlow.pdf)
+![codeFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/dataFlow.pdf)
 
 ### Program Code :
 
