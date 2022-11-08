@@ -91,6 +91,8 @@
 
 ## Project Development Phase
    #### Sprint1: [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/Project%20Development%20Phase/Sprint%201)
+   
+   #### Sprint2: [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/tree/main/Project%20Development%20Phase/Sprint%202)
 
 
 
