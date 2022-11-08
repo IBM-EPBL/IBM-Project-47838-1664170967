@@ -178,10 +178,10 @@ MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 3 AS PER OUR PLANNED SPRINT SCHEDU
 ```
 
 ### Images :
-![OutputImage2](./https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%202/sprint%202%20output1.png)
+![OutputImage1](sprint 2 output1.png)
 
 ---
 
-![OutputImage](./https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%202/sprint%202%20output2.png)
+![OutputImage2](sprint 2 output2.png)
 
 ### Thank You
