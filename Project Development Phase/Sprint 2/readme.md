@@ -182,6 +182,7 @@ MICRO CONTROLLER CODE WILL BE ADDED IN SPRINT 3 AS PER OUR PLANNED SPRINT SCHEDU
 
 ---
 
-![OutputImage2](./sprint 2 output2.png)
+![OutputImage2](https://user-images.githubusercontent.com/85010264/200644071-ca2f45ca-3ec8-4cce-9ab6-5e89c7430ac3.png)
+
 
 ### Thank You
