@@ -84,6 +84,11 @@ def logData2Cloud(location,temperature,visibility):
 #### [> brain.py](./brain.py)
 > This file is a utility function that returns only essential information to be displayed at the hardware side and abstracts all the unnecessary details. This is where the code flow logic is implemented.
 ```python
+# Python code
+
+# IMPORT SECTION STARTS
+
+import weather
 from datetime import datetime as dt
 from publishData import logData2Cloud as log2cloud
 
