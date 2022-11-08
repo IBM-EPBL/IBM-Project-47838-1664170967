@@ -8,7 +8,8 @@
 1. Push data from local code to cloud
 
 ### Code Flow :
-![codeFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/dataFlow.pdf)
+codeFlow!(![image](https://user-images.githubusercontent.com/85010264/200647914-0e35a1a7-7ac4-44a4-aab1-4fff02380595.png)
+)
 
 ### Program Code :
 
@@ -49,12 +50,12 @@ import time
 
 myConfig = {
     "identity" : {
-        "orgId" : "epmoec",
-        "typeId" : "testDevice",
-        "deviceId" : "device0"
+        "orgId" : "f59trs",
+        "typeId" : "testdevice",
+        "deviceId" : "device1"
     },
     "auth" : {
-        "token" : "?-KDXUPMvDo_TK2&b1"
+        "token" : "Jrwa7c8Os2Zpq)WW18"
     }
 }
 
@@ -138,7 +139,7 @@ import brain
 # USER INPUT SECTION STARTS
 
 myLocation = "Chennai,IN"
-APIKEY = "bf4a8d480ee05c00952bf65b78ae826b"
+APIKEY = "9cd610e5fd400c74212074c7ace0d62c"
 
 localityInfo = {
     "schools" : {
