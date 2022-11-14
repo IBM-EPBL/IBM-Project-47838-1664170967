@@ -8,17 +8,17 @@
 1. Hardware & Cloud integration
 
 #### Process Flow :
-![processFlow](processFlow.pdf)
+![processFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/processFlow.pdf)
 
 #### Code Flow :
-![codeFlow](dataFlow.pdf)
+![codeFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/dataFlow.pdf)
 
 ---
 
 ### Node RED :
 
 #### Node RED flow :
-![NodeRedCodeFlow](OVERALL NODE-RED FLOW.png)
+![NodeRedCodeFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/OVERALL%20NODE-RED%20FLOW.png)
 
 There are 3 flows in the above Node RED flow. They are 
 
@@ -27,7 +27,7 @@ There are 3 flows in the above Node RED flow. They are
 1. /setDirection API flow
 
 #### 1. Node RED UI flow :
-![UI FLOW](IOT UI FLOW.png)
+![UI FLOW](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/IOT%20UI%20FLOW.png)
 
 1. **"IBM IOT"** node connects the backend to Node RED UI
 2. The function nodes such as **"get Direction given UID"**, **"get UID"**, **"get Location"**, **"get Visibility"** & **"get Temperature"** extract the respective data out and provides them to the UI nodes **"Direction UI"**, **"UID UI"**, **"Location UI"**, **"Visibility UI"** & **"Temperature UI"**.
@@ -61,7 +61,7 @@ return msg;
 ---
 
 #### 2. /getSpeed API flow :
-![getSpeedAPI](API FLOW.png)
+![getSpeedAPI](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/API%20FLOW.png)
 
 1. **"getSpeed In"** node is an http end point. It accepts parameters like microcontroller UID, location, school & hospital zones info.
 
@@ -144,7 +144,7 @@ return msg;
 ---
 
 #### 3. /setDirection API flow :
-![UI FLOW](DIRECTION FLOW.png)
+![UI FLOW](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/DIRECTION%20FLOW.png)
 
 1. **"setDirection In"** node is an http end point. It accepts parameters like microcontroller UID & direction.
 
@@ -166,12 +166,12 @@ return msg;
 
 ### Wokwi Circuit :
 
-**[Wokwi Code](main.ino)**
+**[Wokwi Code](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/main.ino)**
 
 **[Wokwi Link](https://wokwi.com/projects/348220756379828820)**
 
 #### Circuit Diagram :
-![CircuitDiagram](ESP32 CIRCUIT DIAGRAM.png)
+![CircuitDiagram](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/ESP32%20CIRCUIT%20DIAGRAM.png)
 
 #### ESP 32 CODE :
 ```cpp
@@ -341,10 +341,14 @@ void loop() {
 
 **[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348220756379828820)**
 
-![out](OUTPUT1.png)
-![out](OUTPUT2.png)
-![out](OUTPUT3.png)
-![out](OUTPUT4.png)
-![out](OUTPUT5.png)
+OUTPUT1![out](OUTPUT1.png)
+
+OUTPUT2![out](OUTPUT2.png)
+
+OUTPUT3![out](OUTPUT3.png)
+
+OUTPUT4![out](OUTPUT4.png)
+
+OUTPUT5![out](OUTPUT5.png)
 
 ### Thank You
