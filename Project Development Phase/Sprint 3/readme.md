@@ -8,10 +8,10 @@
 1. Hardware & Cloud integration
 
 #### Process Flow :
-![processFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Development%20Phase/Sprint%203/processFlow.pdf)
+![processFlow](https://user-images.githubusercontent.com/85010264/201740568-a8f39c71-3600-4baf-860c-e53931efc78c.jpg)
 
 #### Code Flow :
-![codeFlow](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Project%20Design%20and%20planning/Project%20Design%20%20Phase%202/dataFlow.pdf)
+![codeFlow](https://user-images.githubusercontent.com/85010264/201740291-d0410617-7daa-4a8d-aa84-cdecdee4f960.jpg)
 
 ---
 
