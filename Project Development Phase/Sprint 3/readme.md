@@ -2,23 +2,23 @@
 
 ## Signs with Smart Connectivity for Better Road Safety
 
-## Team ID - PNT2022TMID02450
+## Team ID - PNT2022TMID23978
 
 ### Sprint Goals :
 1. Hardware & Cloud integration
 
 #### Process Flow :
-![processFlow](./processFlow.png)
+![processFlow](processFlow.pdf)
 
 #### Code Flow :
-![codeFlow](./../../Project%20Design%20%26%20Planning/Project%20Design%20Phase%202/dataFlow.png)
+![codeFlow](dataFlow.pdf)
 
 ---
 
 ### Node RED :
 
 #### Node RED flow :
-![NodeRedCodeFlow](./codeFlow.png)
+![NodeRedCodeFlow](OVERALL NODE-RED FLOW.png)
 
 There are 3 flows in the above Node RED flow. They are 
 
@@ -27,7 +27,7 @@ There are 3 flows in the above Node RED flow. They are
 1. /setDirection API flow
 
 #### 1. Node RED UI flow :
-![UI FLOW](./IOT_UI_FLOW.png)
+![UI FLOW](IOT UI FLOW.png)
 
 1. **"IBM IOT"** node connects the backend to Node RED UI
 2. The function nodes such as **"get Direction given UID"**, **"get UID"**, **"get Location"**, **"get Visibility"** & **"get Temperature"** extract the respective data out and provides them to the UI nodes **"Direction UI"**, **"UID UI"**, **"Location UI"**, **"Visibility UI"** & **"Temperature UI"**.
@@ -61,7 +61,7 @@ return msg;
 ---
 
 #### 2. /getSpeed API flow :
-![getSpeedAPI](./API_FLOW.png)
+![getSpeedAPI](API FLOW.png)
 
 1. **"getSpeed In"** node is an http end point. It accepts parameters like microcontroller UID, location, school & hospital zones info.
 
@@ -70,7 +70,7 @@ return msg;
 global.set("data",msg.payload);
 
 msg.payload.q = msg.payload.location;
-msg.payload.appid = "bf4a8d480ee05c00952bf65b78ae826b";
+msg.payload.appid = "9cd610e5fd400c74212074c7ace0d62c";
 return msg;
 ```
 
@@ -144,7 +144,7 @@ return msg;
 ---
 
 #### 3. /setDirection API flow :
-![UI FLOW](./DIRECTION_FLOW.png)
+![UI FLOW](DIRECTION FLOW.png)
 
 1. **"setDirection In"** node is an http end point. It accepts parameters like microcontroller UID & direction.
 
@@ -156,22 +156,22 @@ return msg;
 
 3. **"setDirection Out"** node returns a http response for the request at node **"setDirection In"**.
 
-**[Click on this link to change direction to Straight](https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/setDirection?uid=2504&dir=s)**
+**[Click on this link to change direction to Straight](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/setDirection?uid=2504&dir=s)**
 
-**[Click on this link to change direction to Left](https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/setDirection?uid=2504&dir=l)**
+**[Click on this link to change direction to Left](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/setDirection?uid=2504&dir=l)**
 
-**[Click on this link to change direction to Right](https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/setDirection?uid=2504&dir=r)**
+**[Click on this link to change direction to Right](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/setDirection?uid=2504&dir=r)**
 
 ---
 
 ### Wokwi Circuit :
 
-**[Wokwi Code](./main.ino)**
+**[Wokwi Code](main.ino)**
 
-**[Wokwi Link](https://wokwi.com/projects/348031776588825171)**
+**[Wokwi Link](https://wokwi.com/projects/348220756379828820)**
 
 #### Circuit Diagram :
-![CircuitDiagram](./Circuit%20Diagram.png)
+![CircuitDiagram](ESP32 CIRCUIT DIAGRAM.png)
 
 #### ESP 32 CODE :
 ```cpp
@@ -258,7 +258,7 @@ void upArrow()
 String APICall() {
   HTTPClient http;
 
-  String url = "https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/getSpeed?";
+  String url = "https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/getSpeed?";
   url += "location="+myLocation+"&";
   url += "schoolZone="+(String)digitalRead(schoolZone)+(String)"&";
   url += "hospitalZone="+(String)digitalRead(hospitalZone)+(String)"&";
@@ -333,18 +333,18 @@ void loop() {
 
 #### Node RED Dashboard :
 
-**[LINK TO NODE RED DASHBOARD](https://node-red-grseb-2022-11-05-test.eu-gb.mybluemix.net/ui/#!/0?socketid=GTCCu99nK-_WLy8iAAAL)**
+**[LINK TO NODE RED DASHBOARD](https://node-red-nwmrt-2022-11-04.eu-gb.mybluemix.net/ui/#!/0?socketid=GTCCu99nK-_WLy8iAAAL)**
 
-![dashboard](./dashboard.png)
+![dashboard](DASHBOARD.png)
 
 #### Wokwi Output :
 
-**[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348031776588825171)**
+**[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348220756379828820)**
 
-![out](./out0.png)
-![out](./out1.png)
-![out](./out3.png)
-![out](./out4.png)
-![out](./out5.png)
+![out](OUTPUT1.png)
+![out](OUTPUT2.png)
+![out](OUTPUT3.png)
+![out](OUTPUT4.png)
+![out](OUTPUT5.png)
 
 ### Thank You
