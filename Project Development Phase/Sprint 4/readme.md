@@ -352,13 +352,13 @@ void loop() {
 
 **[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348220756379828820)**
 
-OUTPUT1 [DISPLAY BOARD](OUTPUT1.png)
+OUTPUT1 ![DISPLAY BOARD](OUTPUT1.png)
 
-OUTPUT2 [AUTHORITY GIVING TAKE STRAIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991392-3e5e5b5f-f4db-479a-926a-08d4c97b7abc.png)
+OUTPUT2 ![AUTHORITY GIVING TAKE STRAIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991392-3e5e5b5f-f4db-479a-926a-08d4c97b7abc.png)
 
-OUTPUT3 [AUTHORITY GIVING TAKE RIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991604-fe280cf0-73ae-488d-9b91-fd1e0619164c.png)
+OUTPUT3 ![AUTHORITY GIVING TAKE RIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991604-fe280cf0-73ae-488d-9b91-fd1e0619164c.png)
 
-OUTPUT4 [AUTHORITY GIVING TAKE LEFT DIRECTION](https://user-images.githubusercontent.com/85010264/201991658-ff45e329-9444-4fe9-a6fd-6f497b32b2e1.png)
+OUTPUT4 ![AUTHORITY GIVING TAKE LEFT DIRECTION](https://user-images.githubusercontent.com/85010264/201991658-ff45e329-9444-4fe9-a6fd-6f497b32b2e1.png)
 
 
 
