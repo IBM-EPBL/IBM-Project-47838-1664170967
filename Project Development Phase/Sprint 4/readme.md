@@ -352,7 +352,8 @@ void loop() {
 
 **[LINK TO WOKWI PROJECT](https://wokwi.com/projects/348220756379828820)**
 
-OUTPUT1 ![DISPLAY BOARD](OUTPUT1.png)
+OUTPUT1 ![ESP32 CIRCUIT DIAGRAM](https://user-images.githubusercontent.com/85010264/201994051-e9782abe-8a82-4cdd-bd4a-d45df852e224.png)
+
 
 OUTPUT2 ![AUTHORITY GIVING TAKE STRAIGHT DIRECTION](https://user-images.githubusercontent.com/85010264/201991392-3e5e5b5f-f4db-479a-926a-08d4c97b7abc.png)
 
