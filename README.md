@@ -116,9 +116,8 @@
    
 ## Final Deliverables
 
-   #### Deliverables : [Deliverables]()
-   #### Project Report : [Report]()
-   #### Demo Link : [Demo Link]()
+   #### Project Report : [Report](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/blob/main/Final%20Deliverables/Project%20Report%20.pdf)
+   #### Demo Link : [Demo Link](https://www.youtube.com/watch?v=cjFPekA8Ghc)
 
 
 
