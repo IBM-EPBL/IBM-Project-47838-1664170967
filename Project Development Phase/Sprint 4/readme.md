@@ -174,7 +174,8 @@ connected with **"ESP32"** at the **"Wokwi Simulator"** which was connected with
 ![MIT APP BLOCK CODE FOR MANAGING TRAFFIC](https://user-images.githubusercontent.com/85010264/201990815-4fa26717-b82f-4d9f-83e1-1566823dc288.png)
 
 #### APK FILE :
-![IBMAPP.zip](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/10015096/IBMAPP.zip)
+![IBMAPP.zip](https://github.com/IBM-EPBL/IBM-Project-47838-1664170967/files/10069537/IBM.APP.zip)
+
 
 **"EXTRACT THE ZIP FILE AND INSTALL THE APK FILE IN AN ANDROID PHONE TO CONTROL THE DIRECTIONS AS AUTHORITIES"**
 
